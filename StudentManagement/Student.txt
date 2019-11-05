@@ -1,0 +1,4 @@
+1	Long	0	1999	094	GV
+2	Lac	0	1999	090	BD
+3	Linh	1	2000	020	PN
+4	ngoc	1	1999	890	bd
